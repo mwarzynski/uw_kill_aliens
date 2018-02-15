@@ -2,6 +2,8 @@
 
 Zadanie polega na stworzeniu prostej aplikacji React-Native - gry "Austronauci kontra kosmici" (lub wariantu wykorzystujacego inny "motyw fabularny"). Chodzi o tę samą aplikację, którą tworzyli Państwo w ramach ćwiczeń na zajęciach.
 
+![](https://github.com/mwarzynski/uw_kill_aliens/blob/master/screenshots/screen.png)
+
 Wymagania dotyczące aplikacji
 Aplikacja powinna składać się z pojedynczego ekranu, na którym odbywa się cała rozgrywka:
 
